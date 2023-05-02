@@ -1,0 +1,30 @@
+{
+  "name": "nest-http-timeout",
+  "version": "1.0.0",
+  "description": "HTTP Decorator &amp; Interceptor for NestJS",
+  "main": ".eslintrc.js",
+  "files": [
+    "dist/**/*"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusuf-eren/nestjs-http-timeout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusuf-eren/nestjs-http-timeout/issues"
+  },
+  "homepage": "https://github.com/yusuf-eren/nestjs-http-timeout#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@nestjs/common": "^9.4.0",
+    "rxjs": "^7.8.1"
+  }
+}
