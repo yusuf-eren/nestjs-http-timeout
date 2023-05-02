@@ -1,8 +1,9 @@
 {
   "name": "nestjs-http-timeout",
-  "version": "1.0.4",
-  "description": "HTTP Decorator &amp; Interceptor for NestJS",
-  "main": ".eslintrc.js",
+  "version": "1.0.5",
+  "description": "HTTP Decorator & Interceptor for NestJS",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "files": [
     "lib/**/*"
   ],
