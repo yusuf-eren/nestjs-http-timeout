@@ -1,6 +1,6 @@
 {
   "name": "nestjs-http-timeout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTTP Decorator &amp; Interceptor for NestJS",
   "main": ".eslintrc.js",
   "files": [
