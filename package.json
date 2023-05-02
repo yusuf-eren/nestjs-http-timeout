@@ -1,13 +1,14 @@
 {
   "name": "nestjs-http-timeout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HTTP Decorator &amp; Interceptor for NestJS",
   "main": ".eslintrc.js",
   "files": [
     "lib/**/*"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "publish": "npm run build && npm publish"
   },
   "repository": {
     "type": "git",
